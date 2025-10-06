@@ -14,10 +14,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Benevenuto Rodrigues
+- Matricula: 904533
+- Proposta de projeto escolhida: Site de Noticias
+- Breve descrição sobre seu projeto: Eu desenvolvi um catálogo web simples onde a página inicial lista os itens de forma dinâmica a partir de um array/JSON no JavaScript. Cada card traz imagem, título e um botão “ver detalhes”. Ao clicar, o usuário é levado para uma única página de detalhes (detalhes.html), que lê o id pela URL (ex.: ?id=3) e monta o conteúdo na hora, sem precisar criar uma página para cada item. Usei apenas HTML, CSS e JavaScript, organizei a estrutura do projeto, deixei responsivo e cuidei de acessibilidade básica. Também versionei tudo com Git, fiz commits descritivos, criei tags e publiquei no GitHub. No geral, o projeto pratica manipulação do DOM, passagem de dados via query string e um fluxo de trabalho bem organizado com Git/GitHub.
 
 ## Print da Home-Page
 
