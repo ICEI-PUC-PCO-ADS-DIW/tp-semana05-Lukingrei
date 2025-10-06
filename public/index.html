@@ -1,13 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="app.js" defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portal de Notícias — Detalhes</title>
+  <meta name="description" content="Página de detalhes de uma notícia." />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <h1>Olá mundo</h1>
+  <header class="topbar">
+    <div class="container">
+      <a class="brand" href="index.html" aria-label="Ir para a Home">Portal de Notícias</a>
+      <nav aria-label="Navegação principal">
+        <ul class="menu">
+          <li><a href="index.html">Início</a></li>
+          <li><a href="#" aria-disabled="true">Categorias</a></li>
+          <li><a href="#" aria-disabled="true">Sobre</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <a class="back-link" href="index.html">← Voltar</a>
+
+    <section id="detalhe-container" class="detalhe" aria-live="polite">
+      <!-- Detalhes dinâmicos via app.js -->
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <small>© 2025 Portal de Notícias</small>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
 </body>
 </html>
