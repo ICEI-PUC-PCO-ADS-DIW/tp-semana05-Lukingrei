@@ -21,11 +21,12 @@ Leia o enunciado completo no Canvas.
 
 ## Print da Home-Page
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c3b22a60-280c-4b56-bb8a-cbd45049f447" />
 
 ## Print da página de detalhes do item
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/b812a3c2-6957-4526-9520-99959ff78f10" />
+
 
 ## Cole aqui abaixo a estrutura JSON utilizada no app.js
 
